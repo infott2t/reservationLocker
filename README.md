@@ -18,6 +18,8 @@
 
 main.dart 파일을 실행시키면 됨니다. Flutter앱 입니다.
 
+기부는 하실 분은 여기에 해주세요. <a href="https://paypal.me/jcoop45">Paypal 기부</a>
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 

@@ -1,11 +1,11 @@
 class Locker {
-  final int? id;
-  final int? lockerNumber;
-  final int? customerId;
-  final String? gender; //man, woman
+  int? id;
+  int? lockerNumber;
+  int? customerId;
+  String? gender; //man, woman
   String? status; //available, inUse, underRepair
-  final DateTime? startDate;
-  final DateTime? endDate;
+  DateTime? startDate;
+  DateTime? endDate;
 
   Locker(
     this.id,

@@ -14,7 +14,7 @@ List<Customer> initDummydataCustomer() {
   result.add(Customer(2, 'test2@email.com', 'Mary', 'woman'));
   result.add(Customer(3, 'test3@email.com', 'Enderson', 'man'));
   result.add(Customer(4, 'test4@email.com', 'Becky', 'woman'));
-  result.add(Customer(4, 'test4@email.com', 'Helen', 'woman'));
+  result.add(Customer(5, 'test5@email.com', 'Helen', 'woman'));
 
   return result;
 }

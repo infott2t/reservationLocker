@@ -1,6 +1,9 @@
 # locker_1
 
-A new Flutter project. Not complete~.
+A new Flutter project.
+
+![pic_resv](https://github.com/infott2t/reservationLocker/assets/25080178/75d3f5b4-cbfe-44f4-803b-2714a9d64ff1)
+ Not complete~.
 
 ## Getting Started
 

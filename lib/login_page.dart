@@ -26,12 +26,19 @@ class LoginPage extends StatelessWidget {
           child: Column(
             children: [
               const Expanded(
-                flex: 4,
+                flex: 2,
                 child: Center(
                   child: Text(
                     '사물함 예약 시스템',
                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                   ),
+                ),
+              ),
+              const Expanded(
+                flex: 4,
+                child: Text(
+                  '(Git, https://github.com/infott2t/reservationLocker)',
+                  style: TextStyle(fontSize: 15),
                 ),
               ),
               Expanded(
